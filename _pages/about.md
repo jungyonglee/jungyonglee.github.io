@@ -3,7 +3,9 @@ title: "About"
 permalink: /about/
 ---
 
-![](/images/jy.jpg){: width="50%" height="50%"}
+<!-- ![](/images/jy.jpg){: width="50%" height="50%"} -->
+<img src="/images/jy.jpg" width="50%" height="50%">
+
 ## About me
 I'm a Senior Data Scientist on the Data Analytics Laboratory at Samsung Research.
 
