@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /resarch/
+permalink: /research/
 title: "Research"
 author_profile: true
 ---
