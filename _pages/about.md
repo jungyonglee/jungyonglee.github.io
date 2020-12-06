@@ -7,7 +7,7 @@ permalink: /about/
 <img src="/images/jy.jpg" width="20%" height="20%">
 
 ## About me
-I'm a Senior Data Scientist on the Data Analytics Laboratory at Samsung Research.
+I'm a Staff Engineer on the Data Analytics Laboratory at Samsung Research.
 
 ## Education
 - **2019, Seoul National University, Ph.D., Electrical and Computer Engineering**
