@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Journal
 
-- **J. Y. Lee** *et al*, "Trust Yourself: Improving Confidence of Classifier Using Supervised Autoencoder based Model for Advertisement System", *IEEE Access* - Under review
+- **J. Y. Lee** *et al*, "Trust Yourself: Improving Confidence of Classifier Using Supervised Autoencoder based Model for Advertisement System", *IEEE Access - Under review*
 
 - S. Lee, **J. Y. Lee**, and S. C. Kim, “Mutual interference suppression using wavelet denoising in automotive FMCW radar systems,” *IEEE Transactions on Intelligent Transportation Systems*, vol. -, no. -, pp. -, 2020
 
