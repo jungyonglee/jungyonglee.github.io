@@ -4,8 +4,7 @@ permalink: /about/
 ---
 
 ## About me
-I'm a Senior Data Scientist on the Data Analytics Labotory at Samsung Research.
-
+I'm a Senior Data Scientist on the Data Analytics Laboratory at Samsung Research.
 
 ## Education
 - **2019, Seoul National University, Ph.D., Electrical and Computer Engineering**
