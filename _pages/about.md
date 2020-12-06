@@ -3,6 +3,7 @@ title: "About"
 permalink: /about/
 ---
 
+![](../images/jy.jpg)
 ## About me
 I'm a Senior Data Scientist on the Data Analytics Laboratory at Samsung Research.
 
