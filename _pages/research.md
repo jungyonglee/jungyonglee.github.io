@@ -31,6 +31,8 @@ author_profile: true
 
 - **J. Y. Lee**, M. Y. Kang, and S. C. Kim, “Path loss exponent prediction for outdoor millimeter wave channels through deep learning,” *the 17th IEEE Wireless Communications and Networking Conference (WCNC)*, Apr. 2019.
 
+- J. Yoon, J. Kim, **J. Y. Lee**, and S. C. Kim, “Integrated SC/OFDM receiver design for efficient phase noise mitigation in IEEE 802.11ad,” the 17th IEEE Wireless Communications and Networking Conference (WCNC), April 2019
+
 - J. H. Lee, J. S. Choi, **J. Y. Lee**, and S. C. Kim, “Experimental results of a land-to-ship propagation channel using a wideband channel sounding system at 2.4 GHz,” *International Conference on Computing, Networking and Communications*, Mar. 2018.
 
 - J. H. Lee, J. S. Choi, **J. Y. Lee**, and S. C. Kim, “Permittivity effect of building materials on 28 GHz mmWave channel using 3D ray tracing simulation,” *IEEE Global Communications Conference (GLOBECOM)*, Dec. 2017.
