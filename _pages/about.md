@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 <!-- ![](/images/jy.jpg){: width="50%" height="50%"} -->
-<img src="/images/jy.jpg" width="20%" height="50%">
+<img src="/images/20180203_163151.jpg" width="20%" height="50%">
 
 ## About me
 I'm a Data Scientist on the Data Analytics Laboratory at Samsung Research.
